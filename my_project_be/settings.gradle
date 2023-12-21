@@ -1,0 +1,4 @@
+rootProject.name = 'my_project_be'
+include 'logic'
+include 'security'
+
