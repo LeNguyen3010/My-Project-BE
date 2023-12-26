@@ -10,6 +10,13 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 
+/**
+ * The ProductColor is the class Let mapping to table t_table_product_color in database
+ *
+ * @author nguyenlv
+ * @version 1.0
+ *
+ */
 @AllArgsConstructor
 @NoArgsConstructor
 @Getter

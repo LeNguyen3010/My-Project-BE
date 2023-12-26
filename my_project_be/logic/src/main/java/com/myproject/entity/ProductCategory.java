@@ -10,6 +10,13 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 
+/**
+ * The ProductCategory is the class Let mapping to table t_table_product_category in database
+ *
+ * @author nguyenlv
+ * @version 1.0
+ *
+ */
 @NoArgsConstructor
 @AllArgsConstructor
 @Getter

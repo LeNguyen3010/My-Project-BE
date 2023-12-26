@@ -11,6 +11,13 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 
+/**
+ * The Role is the class Let mapping to table t_table_role in database
+ *
+ * @author nguyenlv
+ * @version 1.0
+ *
+ */
 @AllArgsConstructor
 @NoArgsConstructor
 @Getter

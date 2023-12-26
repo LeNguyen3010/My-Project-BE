@@ -10,6 +10,12 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 
+/**
+ * Class common AbstractAuditEntity is extended by other entity class.<br>
+ * This class declare common fields.
+ * @author nguyenlv
+ */
+
 @AllArgsConstructor
 @NoArgsConstructor
 @Setter

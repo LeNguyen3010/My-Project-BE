@@ -7,6 +7,14 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
+/**
+ * The Category is the class Let mapping to table t_table_category in database
+ *
+ * @author nguyenlv
+ * @version 1.0
+ *
+ */
+
 @Entity
 @Table(name = "t_table_category")
 public class Category extends AuditableEntity{
